@@ -1,4 +1,6 @@
 
+
+
 # float('inf') represents positive infinity. It is a special floating-point value that represents a number greater than any other numerical value (positive or negative).
 #  Similarly, float('-inf') represents negative infinity, a value less than any other numerical value.
 #When you don't intend to use the value of a variable, you can use _ as a placeholder to indicate that the variable is intentionally ignored.
@@ -50,4 +52,3 @@ print (result)
 
 result = grade_analyzer (student_grades, 'lowest')
 print (result)
-
